@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# virtualenv
+venv
+
+# word2vec
+*.w2v
